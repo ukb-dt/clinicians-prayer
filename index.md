@@ -19,7 +19,7 @@
 {% endraw %}
 
 > *All philosophers make the common mistake of taking contemporary man as*          
-> *Their starting point and of trying, through an analysis of him, to reach a conclusion.*      
+> *Their starting point and of trying, through an analysis of him, to reach a [conclusion](https://ukb-dt.github.io/too-tidy/).*      
 > -- [Human, All-Too-Human](https://www.gutenberg.org/files/38145/38145-h/38145-h.htm#OF_THE_FIRST_AND_LAST_THINGS)
 
 ## [Preface](https://ukb-dt.github.io/ai-tree/)
